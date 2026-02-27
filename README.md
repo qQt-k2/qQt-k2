@@ -1,16 +1,22 @@
-## Hi there 👋
+# qQt-k2
 
-<!--
-**qQt-k2/qQt-k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Learning full-stack web developer | Unity & C# GameDev`**
 
-Here are some ideas to get you started:
+🌱 Learning full-stack web dev | 🎮 Unity & C# game dev
+Transitioning from game worlds to the web, one by one commit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+<img width="25" height="25" style="padding-right = 15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img width="25" height="25" style="padding-right = 15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img width="25" height="25" style="padding-right = 15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+
+**`---`**
+
+<img width="25" height="25" style="padding-right = 15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+
+**`---`**
+
+<img width="25" height="25" style="padding-right = 15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+<img width="25" height="25" style="padding-right = 15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+
